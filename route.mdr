@@ -135,7 +135,8 @@ Buy from the Watt Trader:
 Head into Motostoke and follow Sonia
 
 **Shopping:**
-  **Right:**
+ 
+ **Right:**
 - 11 X Sp Atk       (^^)
 - 1 X Def           (^)
 - 11 X Atk          (^)
@@ -144,10 +145,15 @@ Head into Motostoke and follow Sonia
 - 11 Potions        (v)
 
 Head back outside Motostoke and deathwarp to the static strong Mudsdale on the left.
+
 Use Growl to stall turns.
+
 :info[**Mash B to not go to Motostoke**]{color=red}
+
 Head back into the train station and talk to the yellow ticket machine.
+
 Talk to Klara to trigger the Slowpoke cutscene.
+
 Stand in **front** of and talk to the Slowpoke.
 
 :::::::trainer[Slowpoke]
@@ -160,8 +166,7 @@ Talk to the man to go to **Isle of Armor**.
 
 :::::::trainer[Klara 1]
   :::::pokemon[Venipede]
-   - X Sp Atk x2
-   - Water Pulse
+   - X Sp Atk x2 + Water Pulse
   :::::
   :::::pokemon[Slowpoke]
    - Water Pulse
@@ -216,10 +221,9 @@ Equip **Cheri Berry** and head to the Master Dojo
       - Damage range is 18-21(22)
     :::
   :::::
-  :::::pokemon[Mienfoo] :info[Faster at 28+ speed (x / x / 22+)]{color=blue}
-    - (X Def if you won't survive Fake Out + Force Palm, not including max rolls)
-    - X Sp Atk
-    - Water Pulse*
+  :::::pokemon[Mienfoo]
+    - (X Def if you won't survive Fake Out + Force Palm, not including max rolls) :info[Faster at 28+ speed (x / x / 22+)]{color=blue}
+    - X Sp Atk + Water Pulse*
 ```
     Level 13 +2 Torrent OHKO Ranges:
 
@@ -243,8 +247,10 @@ Buy Berries from the Lady on the left:
  - Pecha Berries x11        (^)
  - Chesto Berries x11       (^)
 
-:info[**Slowpoke Trial**]{color=purple}
+:info[**Slowpoke Trial**]{color=pink}
+
 Bear right and pick up **TR45 Muddy Water**
+
 ![Muddy Water Location](https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Muddy%20Water%20Location.png)
 
 :info[Before continuing, go into the Bag and:]{color=purple}
@@ -262,11 +268,8 @@ Find the Slowpokes (dusty clouds)
 
 :::::::trainer[Slowpokes]
   :::::pokemon[]
-    :::if{source="Sobble" condition="spatk=(0+ / 0+ / 0-26)"}
       - X Sp Atk + Muddy Water
-    :::
-    :::if{source="Sobble" condition="spatk=(x / x / 27+)"}
-      - Muddy Water + Water Pulse
+      - Can Muddy Water + Water Pulse at high SpA (x / x / 27+)
     :::
   :::::
   :::::pokemon[]
@@ -275,13 +278,87 @@ Find the Slowpokes (dusty clouds)
 :::::::
 
 Deathwarp on Malamar
-Pick :info[Bulbasaur]{color=green} and Deposit
+
+Pick :info[**Bulbasaur**]{color=green} and Deposit
+
 Go to Warm-Up Tunnel
  - Bear right to start
  - Go along the left side of the pond
  - Then head along the left path to the bridge
  - Grab the **Moomoo Milk** in the Training Lowlands along the right wall
-![Forest Movement 1](https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Untitled.png =300x300)
-![Forest Movement 2]((https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Untitled-1.png =300x300)
+![Forest Movement 1](https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Untitled.png)
+![Forest Movement 2]((https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Untitled-1.png)
 
-Go in and get :info[**Max Mushrooms**]
+Go in and get :info[**Max Mushrooms**](color=pink)
+
+:::::::trainer[Klara 2]
+  :::::pokemon[Slowpoke]
+    - X Sp Atk + Muddy Water (+ Water Pulse if you missed the range)
+```
+    Lv. 16 Muddy Water ranges:
+    
+    11 / 16       at       37       (x / 10-17 / x)
+    13 / 16       at       38       (x / 18-22 / 0-3)
+    15 / 16       at       39       (x / 23-28 / 4-9)
+    100%          at       40       (x/ 29+ / 10+)
+    
+    Lv. 17 Muddy Water ranges:
+    
+    11 / 16       at       37       (28+ / 0-4 / x)
+    13 / 16       at       38       (x / 5-9 / x)
+    15 / 16       at       39       (x / 10-15 / x)
+    100%          at       40       (x / 15+ / 0+)
+```
+  :::::
+  :::::pokemon[Koffing]
+     - Water Pulse
+  :::::
+  :::::pokemon[Whirlipede]
+     - Muddy Water
+```
+    Lv. 18 Muddy Water ranges:
+    
+    12 / 16       at       39       (27+ / 0-4 / x)
+    14 / 16       at       40-41    (x / 5-15 / x)
+    100%          at       42+      (x / 16+ / 0+)
+```
+  :::::
+:::::::
+
+Switch Drizzile with Bulbasaur if not low health. Deathwarp on Kangaskhan or Sandshrew
+
+After Cutscene ends, take out drizzile from the box, put it in slot 2 and equip a **Pecha Berry**
+
+**Ensure you have:
+ - Bulbasaur in Slot 1
+ - Drizzile in Slot 2 with a Pecha Berry equipped**
+ 
+Save before talking to Klara if you don't want Quick Draw to end your run.
+
+:::::::trainer[Klara 3]
+  :::::pokemon[Skorupi]
+    - KO Bulbasaur
+    - Max Mushroom + X Sp Atk + Muddy Water
+    - Can risk Water Pulse, but it is never guaranteed OHKO
+```
+    Lv. 19 Water Pulse ranges
+    
+    13 / 16       at       48/49       (x / x / 16-25)
+    15 / 16       at       50          (x / x / 26+)
+```
+  :::::
+  :::::pokemon[Weezing]
+    - [DyMax] Muddy Water
+  :::::
+  :::::pokemon[Whirlipede]
+    - [DyMax] Muddy Water
+  :::::
+  :::::pokemon[Slowbro]
+    - [DyMax] Muddy Water
+    - Is a range at SpA below (31- / 14- / x)
+  :::::
+:::::::
+
+Change date to 15/10
+
+Save before Kubfu:
