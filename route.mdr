@@ -245,4 +245,40 @@ Buy Berries from the Lady on the left:
 
 :info[**Slowpoke Trial**]{color=purple}
 Bear right and pick up **TR45 Muddy Water**
-![](https://github.com/AspectSR/Get-Urshifu/blob/main/Assets/Muddy%20Water%20Location.png)
+![Muddy Water Location](https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Muddy%20Water%20Location.png)
+
+:info[Before continuing, go into the Bag and:]{color=purple}
+ - Heal to full or if you want to risk it, heal to just above confusion damage:
+   - 20HP or higher at 15 SpD
+   - 19HP or higher at 16 SpD
+   - 17HP or higher at 17-18 SpD
+   - 16HP or higher at 19-20 SpD
+   - 14HP or higher at 21-23 SpD
+ - Equip a Chesto Berry in case of Yawn
+ - Teach Muddy Water over Pound (Slot 1)
+ - Deposit Slowpoke into the box
+ 
+Find the Slowpokes (dusty clouds)
+
+:::::::trainer[Slowpokes]
+  :::::pokemon[]
+    :::if{source="Sobble" condition="spa=(0+ / 0+ / 0-26)"}
+      - X Sp Atk + Muddy Water
+    :::
+    :::if{source="Sobble" condition="spa=(x / x / 27+)"}
+      - Muddy Water + Water Pulse
+    :::
+  :::::
+  :::::pokemon[]
+    - Once Drizzile just Muddy Water + Water Pulse
+  :::::
+:::::::
+
+Deathwarp on Malamar
+Pick :info[Bulbasaur]{color=green} and Deposit
+Go to Warm-Up Tunnel
+ - Bear right to start
+ - Go along the left side of the pond
+ - Then head along the left path to the bridge
+ - Grab the **Moomoo Milk** in the Training Lowlands along the right wall
+![Forest Movement 1](
