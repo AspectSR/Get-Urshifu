@@ -262,10 +262,10 @@ Find the Slowpokes (dusty clouds)
 
 :::::::trainer[Slowpokes]
   :::::pokemon[]
-    :::if{source="Sobble" condition="spa=(0+ / 0+ / 0-26)"}
+    :::if{source="Sobble" condition="spatk=(0+ / 0+ / 0-26)"}
       - X Sp Atk + Muddy Water
     :::
-    :::if{source="Sobble" condition="spa=(x / x / 27+)"}
+    :::if{source="Sobble" condition="spatk=(x / x / 27+)"}
       - Muddy Water + Water Pulse
     :::
   :::::
