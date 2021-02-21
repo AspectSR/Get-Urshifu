@@ -141,7 +141,7 @@ Head into Motostoke and follow Sonia
 - 1 X Def           (^)
 - 11 X Atk          (^)
   
-  **Left:**
+ **Left:**
 - 11 Potions        (v)
 
 Head back outside Motostoke and deathwarp to the static strong Mudsdale on the left.
@@ -174,6 +174,7 @@ Talk to the man to go to **Isle of Armor**.
 :::::::
 
 :info[**Free heal**]{color=pink}
+
 Equip **Cheri Berry** and head to the Master Dojo
 
 
@@ -270,7 +271,6 @@ Find the Slowpokes (dusty clouds)
   :::::pokemon[]
       - X Sp Atk + Muddy Water
       - Can Muddy Water + Water Pulse at high SpA (x / x / 27+)
-    :::
   :::::
   :::::pokemon[]
     - Once Drizzile just Muddy Water + Water Pulse
@@ -287,9 +287,9 @@ Go to Warm-Up Tunnel
  - Then head along the left path to the bridge
  - Grab the **Moomoo Milk** in the Training Lowlands along the right wall
 ![Forest Movement 1](https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Untitled.png)
-![Forest Movement 2]((https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Untitled-1.png)
+![Forest Movement 2](https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Untitled-1.png)
 
-Go in and get :info[**Max Mushrooms**](color=pink)
+Go in and get :info[**Max Mushrooms**]{color=pink}
 
 :::::::trainer[Klara 2]
   :::::pokemon[Slowpoke]
@@ -329,9 +329,9 @@ Switch Drizzile with Bulbasaur if not low health. Deathwarp on Kangaskhan or San
 
 After Cutscene ends, take out drizzile from the box, put it in slot 2 and equip a **Pecha Berry**
 
-**Ensure you have:
- - Bulbasaur in Slot 1
- - Drizzile in Slot 2 with a Pecha Berry equipped**
+**Ensure you have:**
+ - **Bulbasaur in Slot 1**
+ - **Drizzile in Slot 2 with a Pecha Berry equipped**
  
 Save before talking to Klara if you don't want Quick Draw to end your run.
 
@@ -362,3 +362,14 @@ Save before talking to Klara if you don't want Quick Draw to end your run.
 Change date to 15/10
 
 Save before Kubfu:
+
+:::::::trainer[Kubfu]
+  :::::**Attempt at Lv. 18 if:**
+    :::if{source="Kubfu" condition="(HP=(x / 30+ / x) && Def=(x / 20+ / x) && Speed=(x / x / 26-31) && Atk=(30+ / 0+ / x)"}
+      - Attempting Mustard at Lv.18 is risky, generally it will be a 75% chance to live aerial ace
+      - DO NOT ATTEMPT with Hasty or Timid natures
+      - You need to pick up the carbos when the notes tell you to so you can outspeed Mustards Kubfu
+      - Use this [**pastebin**](https://pastebin.com/N74dbvyL) for what blisseys you need, each number represents the levels of the blissey defeated
+    :::
+  :::::
+:::::::
