@@ -370,9 +370,9 @@ Save before Kubfu:
 ```
     - Attempting Mustard at Lv. 18 is risky, generally best case scenario is a 75% chance to live an aerial ace
     - Requires: 
-    - HP/Def: 35HP/19Def                         HP: (30+) & Def (x / 20+ / x)
-    - Atk: 23+                                   (30+ / 0+ / x)
-    - Speed: 24+ with Carbos                     (x / x / 26+)
+    - <pre>HP/Def: 35HP/19Def                         HP: (30+) & Def (x / 20+ / x)</pre>
+    - <pre>Atk: 23+                                   (30+ / 0+ / x)</pre>
+    - <pre>Speed: 24+ with Carbos                     (x / x / 26+)</pre>
 ```
   :::::
   :::::pokemon[Lv. 19]
@@ -380,9 +380,9 @@ Save before Kubfu:
     - Attempting Mustard at Lv.19 can be risky like Lv.18, but generally has better ranges
     - DO NOT ATTEMPT with -Def Nature
     - Requires:
-    - HP/Def:34-35HP/18Def                      HP: (20+) & Def (30+ / 10+ / 0+)
-    - Atk: 22+                                  (20+ / 0+ / 0+)
-    - Speed: 23+ with Carbos if 23              (x / x / 16+)
+    - <pre>HP/Def:34-35HP/18Def                      HP: (20+) & Def (30+ / 10+ / 0+)</pre>
+    - <pre>Atk: 22+                                  (20+ / 0+ / 0+)</pre>
+    - <pre>Speed: 23+ with Carbos if 23              (x / x / 16+)</pre>
 ```
   :::::
 :::::::
