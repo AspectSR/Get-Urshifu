@@ -364,12 +364,14 @@ Change date to 15/10
 Save before Kubfu:
 
 :::::::trainer[Kubfu]
-  :::::pokemon[**Attempt at Lv. 18 if:**]
-    :::if{source="Kubfu" condition="(HP=(x / 30+ / x) && Def=(x / 20+ / x) && Speed=(x / x / 26-31) && Atk=(30+ / 0+ / x)"}
+  :::::pokemon[Options for Final Level]
+    :::if{source="Kubfu" condition="(HP=30+ && Def=(x / 20+ / x) && Speed=(x / x / 26-31) && Atk=(30+ / 0+ / x)"}
+      - **You Can Attempt Mustard at Lv. 18**
       - Attempting Mustard at Lv.18 is risky, generally it will be a 75% chance to live aerial ace
       - DO NOT ATTEMPT with Hasty or Timid natures
       - You need to pick up the carbos when the notes tell you to so you can outspeed Mustards Kubfu
       - Use this [**pastebin**](https://pastebin.com/N74dbvyL) for what blisseys you need, each number represents the levels of the blissey defeated
     :::
+    :::if{source="Kubfu" condition="(HP=
   :::::
 :::::::
