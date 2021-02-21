@@ -365,7 +365,7 @@ Save before Kubfu:
 
 :::::::trainer[Kubfu]
   :::::pokemon[Options for Final Level]
-    :::if{source="Kubfu" condition="(HP=30+ && Def=(x / 20+ / x) && Speed=(x / x / 26-31) && Atk=(30+ / 0+ / x)"}
+    :::if{source="Kubfu" condition="(HP=30+ && Def=(x / 20+ / x) && Speed=(x / x / 26-31) && Atk=(30+ / 0+ / x))"}
       - **You Can Attempt Mustard at Lv. 18**
       - Attempting Mustard at Lv.18 is risky, generally it will be a 75% chance to live aerial ace
       - DO NOT ATTEMPT with Hasty or Timid natures
