@@ -269,8 +269,8 @@ Find the Slowpokes (dusty clouds)
 
 :::::::trainer[Slowpokes]
   :::::pokemon[]
-      - X Sp Atk + Muddy Water
       - Can Muddy Water + Water Pulse at high SpA (x / x / 27+)
+      - X Sp Atk + Muddy Water at lower SpA
   :::::
   :::::pokemon[]
     - Once Drizzile just Muddy Water + Water Pulse
@@ -286,8 +286,8 @@ Go to Warm-Up Tunnel
  - Go along the left side of the pond
  - Then head along the left path to the bridge
  - Grab the **Moomoo Milk** in the Training Lowlands along the right wall
-![Forest Movement 1](https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Untitled.png) <!-- .element style="height=50% width=50%" -->
-![Forest Movement 2](https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Untitled-1.png) <!-- .element style="height=50% width=50%" -->
+![Forest Movement 1](https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Untitled.png) 
+![Forest Movement 2](https://raw.githubusercontent.com/AspectSR/Get-Urshifu/main/Assets/Untitled-1.png)
 
 Go in and get :info[**Max Mushrooms**]{color=pink}
 
